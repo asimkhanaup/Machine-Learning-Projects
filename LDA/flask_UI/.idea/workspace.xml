@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc4de302-38b4-42e5-88eb-9aec89d2f8f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="8e69cf64-e95c-4456-945b-8ecf03849c53" />
+  <component name="ProjectId" id="1cOHPVpx8CEFBFdEZxpydXiQOHV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Videos/flasknew/flask_UI" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc4de302-38b4-42e5-88eb-9aec89d2f8f4" name="Default Changelist" comment="" />
+      <created>1590392695193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590392695193</updated>
+      <workItem from="1590392699464" duration="66000" />
+      <workItem from="1590589859765" duration="600000" />
+      <workItem from="1590744867068" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2540" y="288" key="FileChooserDialogImpl" timestamp="1590744900476">
+      <screen x="1920" y="27" width="1680" height="1010" />
+    </state>
+    <state x="2540" y="288" key="FileChooserDialogImpl/0.0.1536.824/1920.27.1680.1010@1920.27.1680.1010" timestamp="1590744900476" />
+  </component>
+</project>
